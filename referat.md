@@ -1,6 +1,8 @@
 # Hedy Lamarr
 
 ## Základní informace 
+
+| parametr | detail | 
 | :--- | :--- |
 |Rodné jméno | Hedwig Eva Maria Kiesler |
 |Narození | 9. listopadu 1914 |
