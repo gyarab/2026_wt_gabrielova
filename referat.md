@@ -1,7 +1,7 @@
 # Hedy Lamarr
 
 ## Základní informace 
-| :--- | :--- | :--- |
+| :--- | :--- |
 |Rodné jméno | Hedwig Eva Maria Kiesler |
 |Narození | 9. listopadu 1914 |
 |Úmrtí | 19. ledna 2000 (ve věku 85 let) |
