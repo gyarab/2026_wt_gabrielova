@@ -1,12 +1,11 @@
 # Hedy Lamarr
 
 ## Základní informace 
-
-| parametr | detail | 
+| | |
 | :--- | :--- |
-|Rodné jméno | Hedwig Eva Maria Kiesler |
-|Narození | 9. listopadu 1914 |
-|Úmrtí | 19. ledna 2000 (ve věku 85 let) |
+| Rodné jméno | Hedwig Eva Maria Kiesler |
+| Narození | 9. listopadu 1914 |
+| Úmrtí | 19. ledna 2000 (ve věku 85 let) |
 
 - Místo pohřbení - Vídeňský ústřední hřbitov
 - Povolání - vynálezkyně, autorka autobiografie, scenáristka, filmová herečka, filmová producentka, hudebnice, modelka, bavička a herečka
