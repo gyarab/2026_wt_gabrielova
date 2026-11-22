@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clicker</title>
+
+  <style>
+    button {
+      padding: 20px 40px;
+      color: rgb(0, 0, 0);
+      border-radius: 5px;
+      border: 0;
+      background:rgb(0, 255, 0);
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Clicker</h1>
+  <h2>Počet zmáčknutí tlačítka:
+    <span id="counter"></span>
+  </h2>
+
+  <button onclick="addCnt();">Click</button>
+  <button onclick="resetCnt();">Reset</button>
+</body>
+
+<script>
+  console.log('start javascriptu')
+    let count=0;
+    function updateCnt() {
+        const el = document.getElementById("counter")
+        el.innerHTML = count;
+    }
+
+    // spustim, abych po nacteni webu videl 0
+    updateCnt();
+
+    function addCnt() {
+        console.log('zvyseni counteru')
+        count++;
+        updateCnt();
+    }
+    function resetCnt() {
+        console.log('reset counteru')
+        count = 0;
+        updateCnt();
+    }
+</script>
+</html>
