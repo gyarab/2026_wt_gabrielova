@@ -1,6 +1,6 @@
 # TikTok
 
-![Logo společnosti TikTok](https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg)
+![Logo společnosti TikTok](https://img.magnific.com/vektory-premium/logo-tik-tok_578229-290.jpg?semt=ais_hybrid&w=740&q=80)
 
 Logo TikToku se inspirovalo atmosférou živých koncertů – konkrétně tím, jak v tmavé aréně září barevná světla na pódiu. Celá tahle barevná kombinace má působit energicky, moderně a vytvářet dojem pohybu a hudby
 
